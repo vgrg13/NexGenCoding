@@ -1,0 +1,1 @@
+Mission of our non-profit is to provide a free, world‑class computer science education remotely for anyone across the globe by connecting instructors with a passion for community service with eager students through our platform. We strive to engage young women and students from other underrepresented groups in this journey and empower them to be the creators of tomorrow.
