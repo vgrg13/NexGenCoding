@@ -28,5 +28,12 @@ Vatsal Garg (CEO) and Devaansh Saxena (Lead Instructor) interviewed Carina Graja
 
 **Read** the pitch -- https://github.com/vgrg13/NexGenCoding/blob/main/Diamond%20Challenge%20NexGen%20Coding%20Business%20Case%2002.16.2022.pdf
 
+# Marketing Flyers for Fundraising and Courses' Promotion
+
+https://github.com/vgrg13/NexGenCoding/blob/main/NexGen_Coding_NonProfit_Flyer1.jpg
+https://github.com/vgrg13/NexGenCoding/blob/main/NexGen_Coding_NonProfit_Flyer2.pdf
+https://github.com/vgrg13/NexGenCoding/blob/main/NexGen_Coding_NonProfit_AutoCAD_Course_Flyer.jpeg
+https://github.com/vgrg13/NexGenCoding/blob/main/NexGen_Coding_NonProfit_Chipotle_Fundraising_Flyer.pdf
+
 
 
