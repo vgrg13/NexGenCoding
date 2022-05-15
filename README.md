@@ -25,11 +25,13 @@ To bridge technology literacy disparities across the world giving everyone an eq
 # Our Journey
 
 The creation of NexGen Coding began long before its formal inception in 2021 — in fact, the idea originated from a coding camp organized by CEO Vatsal Garg in 2019 designed to educate local New Jersey middle school students. A simple 15 hour, one week, Basics of Python camp. Yet, it didn’t become that simple, did it?
+
 **Read more** at https://nexgencoding.com/about-us.php
 ***
 # Testimonial from one of our partners, Elizabeth Coalition Homeless
 
-Vatsal Garg (CEO) and Devaansh Saxena (Lead Instructor) interviewed Carina Grajales, Children’s Program Coordinator, and Alisha Vega, Housing Program Coordinator, and discussed the impact of technological literacy on the lives of underprivileged students and learn about the experience of their students with NexGen.
+Vatsal Garg (CEO) and Devaansh Saxena (Lead Instructor) interviewed Carina Grajales, Children’s Program Coordinator, and Alisha Vega, Housing Program Coordinator, to discuss the impact of technological literacy on the lives of underprivileged students and learn about the experience of their students with NexGen.
+
 **Watch** it here -- https://www.youtube.com/watch?v=V8TvCpblKKE
 ***
 # Impact
