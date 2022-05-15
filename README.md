@@ -3,10 +3,10 @@
 2. [Our Mission](#Our-Mission)
 3. [Our Vision](#Our-Vision)
 4. [Our Journey](#Our-Journey)
-5. [Testimonial from one of our partners: Elizabeth Coalition Homeless](#Testimonial-from-one-of-our-partners:-Elizabeth-Coalition-Homeless)
+5. [Testimonial](#Testimonial)
 6. [Our Impact](#Our-Impact)
 7. [Business Case presented at Diamond Challenge Competition 2022](#Business-Case-presented-at-Diamond-Challenge-Competition-2022)
-8. [Marketing Flyers for Fundraising and Courses' Promotion](#Marketing-Flyers-for-Fundraising-and-Courses'-Promotion)
+8. [Marketing Flyers for Fundraising and Courses Promotion](#Marketing-Flyers-for-Fundraising-and-Courses'-Promotion)
 
 # Who we are
 
@@ -28,7 +28,9 @@ The creation of NexGen Coding began long before its formal inception in 2021 —
 
 **Read more** at https://nexgencoding.com/about-us.php
 ***
-# Testimonial from one of our partners, Elizabeth Coalition Homeless
+# Testimonial
+
+**Testimonial from one of our partners: Elizabeth Coalition Homeless**
 
 Vatsal Garg (CEO) and Devaansh Saxena (Lead Instructor) interviewed Carina Grajales, Children’s Program Coordinator, and Alisha Vega, Housing Program Coordinator, to discuss the impact of technological literacy on the lives of underprivileged students and learn about the experience of their students with NexGen.
 
