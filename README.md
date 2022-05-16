@@ -37,10 +37,15 @@ Vatsal Garg (CEO) and Devaansh Saxena (Lead Instructor) interviewed Carina Graja
 **Watch** it here -- https://www.youtube.com/watch?v=V8TvCpblKKE
 ***
 # Impact
+https://nexgencoding.com/impact.php
 
 **We are making a difference!**
 
 Refer to the survey results below assessing the benefits that NexGen Coding is having on both students and team members
+
+![image](https://user-images.githubusercontent.com/88556975/168506935-5caac539-af11-4b36-8941-f8ddb37267f4.png)
+![image](https://user-images.githubusercontent.com/88556975/168507032-bb921d47-767f-477d-8ef1-3cf1379fe372.png)
+
 ***
 # Business Case presented at Diamond Challenge Competition 2022
 
