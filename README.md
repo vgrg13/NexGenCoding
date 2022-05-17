@@ -36,7 +36,7 @@ Vatsal Garg (CEO) and Devaansh Saxena (Lead Instructor) interviewed Carina Graja
 
 **Watch** it here -- https://www.youtube.com/watch?v=V8TvCpblKKE
 ***
-# Impact
+# Our Impact
 https://nexgencoding.com/impact.php
 
 **We are making a difference!**
@@ -45,6 +45,13 @@ Refer to the survey results below assessing the benefits that NexGen Coding is h
 
 ![image](https://user-images.githubusercontent.com/88556975/168506935-5caac539-af11-4b36-8941-f8ddb37267f4.png)
 ![image](https://user-images.githubusercontent.com/88556975/168507032-bb921d47-767f-477d-8ef1-3cf1379fe372.png)
+
+**Survey forms:**
+
+- Student Pre Course Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Student%20Pre%20Course%20Assessment%20Form.pdf
+- Student Post Course Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Student%20Post%20Course%20Assessment%20Form.pdf
+- Instructor Pre NexGen Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Instructor%20Pre%20NexGen%20Assessment%20Form.pdf
+- Instructor Post Course Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Instructor%20Post%20Course%20Assessment%20Form.pdf
 
 ***
 # Business Case presented at Diamond Challenge Competition 2022
