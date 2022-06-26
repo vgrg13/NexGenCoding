@@ -4,9 +4,10 @@
 3. [Our Vision](#Our-Vision)
 4. [Our Journey](#Our-Journey)
 5. [Testimonial](#Testimonial)
-6. [Our Impact](#Our-Impact)
-7. [Business Case presented at Diamond Challenge Competition 2022](#Business-Case-presented-at-Diamond-Challenge-Competition-2022)
-8. [Marketing Flyers for Fundraising and Courses Promotion](#Marketing-Flyers-for-Fundraising-and-Courses'-Promotion)
+6. [Our Overall Impact](#Our-Overall-Impact)
+7. [Impact on Marginalized Students with our Partners](#Impact-on-Marginalized-Students-with-our-Partners)
+8. [Business Case presented at Diamond Challenge Competition 2022](#Business-Case-presented-at-Diamond-Challenge-Competition-2022)
+9. [Marketing Flyers for Fundraising and Courses Promotion](#Marketing-Flyers-for-Fundraising-and-Courses'-Promotion)
 
 # Who we are
 
@@ -36,7 +37,7 @@ Vatsal Garg (CEO) and Devaansh Saxena (Lead Instructor) interviewed Carina Graja
 
 **Watch** it here -- https://www.youtube.com/watch?v=V8TvCpblKKE
 ***
-# Our Impact
+# Our Overall Impact
 https://nexgencoding.com/impact.php
 
 **We are making a difference!**
@@ -55,6 +56,17 @@ Refer to the survey results below assessing the benefits that NexGen Coding is h
 - Instructor Post Course Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Instructor%20Post%20Course%20Assessment%20Form.pdf
 
 ***
+
+# Impact on Marginalized Students with our Partners
+https://nexgencoding.com/index.php
+
+- **The Elizabeth Coalition to House the Homeless**: Introduced comptuer science to marginalized students, started with Scratch and moving on to Python. "Did not know computer science is so much fun and not difficult to learn. I want to pursue this education growing up" - quipped one of the students. 
+- **Boys & Girls Clubs of Union County**: Introduce computer science to 120 students enrolled in summer camps in July and Aug 2022. Scratch and python programming for  under and over 10 year olds respectively 
+- **Sanskriti of New Jersey**: Python classes for Sanskriti students and Sankriti used the collected funds from their students to promote education for a homeless house in Kerala, India
+- **Vibha.Org**: Offering 3 courses in July and Aug '22 (python and Financial Literacy) in partnership, the funds collected by Vibha will provide education to homeless children in India
+- **Trinitas Health Foundation**: Computer skills literacy course for tramuatized girls with humble background, skills include usage of computer, use of google docs, g-suite products, resume building among other skills  
+
+
 # Business Case presented at Diamond Challenge Competition 2022
 
 **Watch** the presentation -- https://www.youtube.com/watch?v=E5UZah1wCr0
