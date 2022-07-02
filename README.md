@@ -7,7 +7,7 @@
 6. [Our Overall Impact](#Our-Overall-Impact)
 7. [Impact on Marginalized Students with our Partners](#Impact-on-Marginalized-Students-with-our-Partners)
 8. [Business Case presented at Diamond Challenge Competition 2022](#Business-Case-presented-at-Diamond-Challenge-Competition-2022)
-9. [Marketing Flyers for Fundraising and Courses Promotion](#Marketing-Flyers-for-Fundraising-and-Courses'-Promotion)
+9. [Marketing Flyers for Fundraising and Courses Promotion](#Marketing-Flyers-for-Fundraising-and-Courses-Promotion)
 
 # Who we are
 
