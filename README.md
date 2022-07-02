@@ -52,7 +52,7 @@ Refer to the survey results below assessing the benefits that NexGen Coding is h
 
 - Student Pre Course Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Student%20Pre%20Course%20Assessment%20Form.pdf
 - Student Post Course Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Student%20Post%20Course%20Assessment%20Form.pdf
-- Instructor Pre NexGen Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Instructor%20Pre%20NexGen%20Assessment%20Form.pdf
+- Instructor Enrollment and Pre NexGen Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Instructor%20Pre%20NexGen%20Assessment%20Form.pdf
 - Instructor Post Course Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Instructor%20Post%20Course%20Assessment%20Form.pdf
 
 ***
@@ -63,7 +63,9 @@ https://nexgencoding.com/index.php
 - **The Elizabeth Coalition to House the Homeless**: Introduced comptuer science to marginalized students, started with Scratch and moving on to Python. "Did not know computer science is so much fun and not difficult to learn. I want to pursue this education growing up" - quipped one of the students. 
 - **Boys & Girls Clubs of Union County**: Introduce computer science to 120 students enrolled in summer camps in July and Aug 2022. Scratch and python programming for  under and over 10 year olds respectively 
 - **Sanskriti of New Jersey**: Python classes for Sanskriti students and Sankriti used the collected funds from their students to promote education for a homeless house in Kerala, India
-- **Vibha.Org**: Offering 3 courses in July and Aug '22 (python and Financial Literacy) in partnership, the funds collected by Vibha will provide education to homeless children in India
+- **Vibha.Org**: Offering courses in July and Aug '22 (python and Financial Literacy) in partnership, the funds collected by Vibha will provide education to homeless children in India 
+  - https://secure.givelively.org/event/vibha-inc/python-camp-2022 
+  - https://secure.givelively.org/event/vibha-inc/intro-to-investing-camp-2022
 - **Trinitas Health Foundation**: Computer skills literacy course for tramuatized girls with humble background, skills include usage of computer, use of google docs, g-suite products, resume building among other skills  
 
 
