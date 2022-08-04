@@ -52,7 +52,7 @@ Refer to the survey results below assessing the benefits that NexGen Coding is h
 
 - Student Pre Course Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Student%20Pre%20Course%20Assessment%20Form.pdf
 - Student Post Course Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Student%20Post%20Course%20Assessment%20Form.pdf
-- Instructor Enrollment and Pre NexGen Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Instructor%20Pre%20NexGen%20Assessment%20Form.pdf
+- Instructor Enrollment and Pre NexGen Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Instructor%20Enrollment%20Form.pdf
 - Instructor Post Course Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Instructor%20Post%20Course%20Assessment%20Form.pdf
 
 ***
