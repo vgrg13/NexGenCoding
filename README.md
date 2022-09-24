@@ -11,7 +11,7 @@
 
 # Who we are
 
-100% Student Run Nonprofit Organization dedicated to bridging technology literacy gaps in marginalized communities
+100% Student Run Nonprofit Organization dedicated to bridging technology literacy gaps in marginalized communities.
 https://nexgencoding.com/about-us.php
 
 ***
@@ -21,7 +21,7 @@ NexGen is committed to empowering future generations by connecting underprivileg
 ***
 # Our Vision
 
-To bridge technology literacy disparities across the world giving everyone an equal opportunity to learn and grow
+To bridge technology literacy disparities across the world giving everyone an equal opportunity to learn and grow.
 ***
 # Our Journey
 
@@ -48,7 +48,7 @@ Refer to the survey results below assessing the benefits that NexGen Coding is h
 ![image](https://user-images.githubusercontent.com/88556975/187822781-5050ecdd-9e4c-4cd9-a56c-8031b1a2e166.png)
 
 
-**Survey forms:**
+**Google Survey forms:**
 
 - Student Pre Course Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Student%20Pre%20Course%20Assessment%20Form.pdf
 - Student Post Course Assessment: https://github.com/vgrg13/NexGenCoding/blob/main/Student%20Post%20Course%20Assessment%20Form.pdf
@@ -60,14 +60,14 @@ Refer to the survey results below assessing the benefits that NexGen Coding is h
 # Impact on Marginalized Students with our Partners
 https://nexgencoding.com/index.php
 
-- **The Elizabeth Coalition to House the Homeless**: Introduced comptuer science to marginalized students, started with Scratch and moving on to Python. "Did not know computer science is so much fun and not difficult to learn. I want to pursue this education growing up" - quipped one of the students. 
-- **Boys & Girls Clubs of Union County**: Introduce computer science to 120 students enrolled in summer camps in July and Aug 2022. Scratch and python programming for  under and over 10 year olds respectively 
-- **Sanskriti of New Jersey**: Python classes for Sanskriti students and Sankriti used the collected funds from their students to promote education for a homeless house in Kerala, India
-- **Vibha.Org**: Offering courses in July and Aug '22 (python and Financial Literacy) in partnership, the funds collected by Vibha will provide education to homeless children in India 
+- **The Elizabeth Coalition to House the Homeless**: Introduced comptuter science to marginalized students, started with Scratch and moving on to Python. "Did not know computer science is so much fun and not difficult to learn. I want to pursue this education growing up" - quipped one of the students. 
+- **Boys & Girls Clubs of Union County**: Introduced computer science to 120 students enrolled in summer camps in July and Aug 2022 as well as school-year programming. Offered courses in Scratch and Python programming for under and over 10 year olds respectively 
+- **Vibha.Org**: Offered summer courses in July and Aug '22 (python and Financial Literacy) in partnership with Vibha. The funds collected by Vibha will provide education to homeless children in India 
   - https://secure.givelively.org/event/vibha-inc/python-camp-2022 
   - https://secure.givelively.org/event/vibha-inc/intro-to-investing-camp-2022
-- **Trinitas Health Foundation**: Computer skills literacy course for tramuatized girls with humble background, skills include usage of computer, use of google docs, g-suite products, resume building among other skills  
+- **Sanskriti of New Jersey**: Python classes for Sanskriti students and Sankriti used the collected funds from their students to promote education for a homeless house in Kerala, India
 
+**Check out our media page:** https://nexgencoding.com/media.php
 
 # Business Case presented at Diamond Challenge Competition 2022
 
