@@ -42,10 +42,10 @@ https://nexgencoding.com/impact.php
 
 **We are making a difference!**
 
-Refer to the survey results below assessing the benefits that NexGen Coding is having on both students and team members
+Refer to our students' profile and survey results indicating NexGen's impact on both students and instructors
 
 ![image](https://user-images.githubusercontent.com/88556975/168506935-5caac539-af11-4b36-8941-f8ddb37267f4.png)
-![image](https://user-images.githubusercontent.com/88556975/187822781-5050ecdd-9e4c-4cd9-a56c-8031b1a2e166.png)
+![image](https://user-images.githubusercontent.com/88556975/193463414-9276fd42-fa27-4214-89d7-44c47394f182.png)
 
 
 **Google Survey forms:**
