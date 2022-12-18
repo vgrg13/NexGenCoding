@@ -60,7 +60,7 @@ Refer to our students' profile and survey results indicating NexGen's impact on 
 # Impact on Marginalized Students with our Partners
 https://nexgencoding.com/index.php
 
-- **The Elizabeth Coalition to House the Homeless**: Introduced comptuter science to marginalized students, started with Scratch and moving on to Python. Have year-long partnership with both summer and school year programming. "Did not know computer science is so much fun and not difficult to learn. I want to pursue this education growing up" - quipped one of the students. 
+- **The Elizabeth Coalition to House the Homeless**: Introduced computer science to marginalized students, started with Scratch and moving on to Python. Have year-long partnership with both summer and school year programming. "Did not know computer science is so much fun and not difficult to learn. I want to pursue this education growing up" - quipped one of the students. 
 - **Boys & Girls Clubs of Union County**: Introduced computer science to 120 students enrolled in summer camps in July and Aug 2022 as well as school-year programming. Offered courses in Scratch and Python programming for under and over 10 year olds respectively 
 - **Vibha.Org**: Offered summer courses in July and Aug '22 (Python and Financial Literacy) in partnership with Vibha. The funds collected by Vibha will provide education to homeless children in India 
   - https://secure.givelively.org/event/vibha-inc/python-camp-2022 
