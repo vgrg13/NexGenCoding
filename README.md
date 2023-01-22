@@ -44,9 +44,8 @@ https://nexgencoding.com/impact.php
 
 Refer to our students' profile and survey results indicating NexGen's impact on both students and instructors
 
-![image](https://user-images.githubusercontent.com/88556975/168506935-5caac539-af11-4b36-8941-f8ddb37267f4.png)
-![image](https://user-images.githubusercontent.com/88556975/193463414-9276fd42-fa27-4214-89d7-44c47394f182.png)
-
+![image](https://user-images.githubusercontent.com/88556975/213900187-af236b8b-aa71-47cc-b6e5-a4233976478e.png)
+![image](https://user-images.githubusercontent.com/88556975/213900207-32fe5153-4b91-4aa9-9d2f-98ba5def1de5.png)
 
 **Google Survey forms:**
 
